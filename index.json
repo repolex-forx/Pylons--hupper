@@ -1,0 +1,11 @@
+{
+  "org": "Pylons",
+  "repo": "hupper",
+  "versions": [
+    {
+      "commit": "b2c564c915bbb94999602820a587f39be02eee29",
+      "tag": "",
+      "parsed_at": "2026-10-18T09:03:18.980857+00:00"
+    }
+  ]
+}
