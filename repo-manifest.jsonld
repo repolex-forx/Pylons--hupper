@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Pylons/hupper/commit/b2c564c915bbb94999602820a587f39be02eee29",
       "git:hexsha": "b2c564c915bbb94999602820a587f39be02eee29",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-18T09:03:18.980243+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Pylons/hupper/commit/5f41215b1d005c178b8e229ab075a56e3a7397b9",
